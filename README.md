@@ -13,4 +13,6 @@
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=subhasree2)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 And these are my Repos :point_down::point_down:
