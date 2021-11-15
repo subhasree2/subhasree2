@@ -1,8 +1,8 @@
 ### Hi visitor I'm Subhasree :smile:
 
-- I’m currently working on Learning new things and upgrading myself in them
+- I’m currently learning Web Development and DSA 
 - I’m currently pursuing II year Computer Science and Engineering :computer:
-- I’m looking to collaborate with better coders and the ones who is interested in acquiring Knowledge :green_book:
+- I’m looking forward to become a good coder </>
 
 ## Languages :
 [![HTML5](http://resources.spacexchimp.com/images/logos/HTML5.png)]()
