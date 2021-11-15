@@ -8,10 +8,8 @@
 [![HTML5](http://resources.spacexchimp.com/images/logos/HTML5.png)]()
 [![CSS3](http://resources.spacexchimp.com/images/logos/CSS3.png)]() 
 
-
-
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=subhasree2)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhasree2&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
