@@ -4,10 +4,10 @@
 - I’m currently pursuing II year Computer Science and Engineering :computer:
 - I’m looking forward to become a good coder </>
 
-## Languages :
+<!-- ## Languages :
 [![HTML5](http://resources.spacexchimp.com/images/logos/HTML5.png)]()
 [![CSS3](http://resources.spacexchimp.com/images/logos/CSS3.png)]() 
-
+-->
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhasree2&show_icons=true&theme=dark)
 
