@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="centre">
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=subhasree2&style=for-the-badge)
 </div>
 <br>
