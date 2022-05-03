@@ -13,6 +13,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="centre">
 ![](https://komarev.com/ghpvc/?username=subhasree2&style=for-the-badge)
+</div>
+<br>
 <br>
 And these are my Repos :point_down::point_down:
