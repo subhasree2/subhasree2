@@ -1,6 +1,4 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-### Hi visitor I'm Subhasree :smile:
 
 - I’m currently learning Web Development and DSA 
 - I’m currently pursuing II year Computer Science and Engineering :computer:
