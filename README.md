@@ -6,8 +6,10 @@
 - I’m currently pursuing II year Computer Science and Engineering :computer:
 - I’m looking forward to become a good coder </>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div align="center">
+<br>
+<br>
+<h3 align="center">Languages and Tools:</h3>
 
 <a href="https://www.photoshop.com/en" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="python" width="40" height="40"/>
@@ -16,8 +18,9 @@
 <a href="https://www.python.org" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </a> 
-</p>
-
+</div>
+<br>
+<br>
 
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=subhasree2&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&border=FFFFFF" align="center" /></div>
 <br />
