@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-[![MasterHead](https://raw.githubusercontent.com/subhasree2/subhasree2/master/header.png)](https://github.com/subhasree2)
+[![MasterHead]()](https://github.com/subhasree2)
 
 - I’m currently learning Web Development and DSA 
 - I’m currently pursuing II year Computer Science and Engineering :computer:
