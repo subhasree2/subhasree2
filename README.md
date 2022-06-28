@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+</p> 
 
 ![](https://komarev.com/ghpvc/?username=subhasree2&style=for-the-badge)
 <br>
