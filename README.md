@@ -9,15 +9,63 @@
 <div align="center">
 <br>
 <br>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center" font-weight="bold">Languages and Tools</h3>
+<br>
 
-<a href="https://www.photoshop.com/en" target="_blank">
+<a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="python" width="40" height="40"/>
 </a> &nbsp; 
 
-<a href="https://www.python.org" target="_blank"> 
+<a> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</a> 
+</a> &nbsp;
+
+<a> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+</a> &nbsp;
+
+<a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="python" width="40" height="40"/>
+</a> &nbsp;
+
+<a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="python" width="40" height="40"/>
+</a> &nbsp;
+
+<br>
+<br>
+
+<a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="python" width="40" height="40"/>
+</a> &nbsp; 
+
+<a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="python" width="40" height="40"/>
+</a> &nbsp;
+
+<a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="python" width="40" height="40"/>
+</a> &nbsp; 
+
+<a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/>
+</a> &nbsp; 
+<br>
+<br>
+
+<a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="python" width="40" height="40"/>
+</a> &nbsp; 
+
+<a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="python" width="40" height="40"/>
+</a> &nbsp; 
+<br>
+<br>
+
+<a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="python" width="40" height="40"/>
+</a> &nbsp; 
 </div>
 <br>
 <br>
