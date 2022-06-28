@@ -18,14 +18,19 @@
 </a> 
 </p>
 
-<!-- ## Languages :
-[![HTML5](http://resources.spacexchimp.com/images/logos/HTML5.png)]()
-[![CSS3](http://resources.spacexchimp.com/images/logos/CSS3.png)]() 
--->
----
+<br clear="right"/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhasree2&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&border=FFFFFF)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhasree2&show_icons=true&theme=dark)
 
+<br>
+
+<p align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 
 ![](https://komarev.com/ghpvc/?username=subhasree2&style=for-the-badge)
 <br>
