@@ -19,7 +19,8 @@
 </p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhasree2&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&border=FFFFFF)](https://git.io/streak-stats)
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=subhasree2&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&border=FFFFFF" align="center" /></div>
+<br />
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=subhasree2&show_icons=true&theme=dark" align="center" /></div>
 <br />
