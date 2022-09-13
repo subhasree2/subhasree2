@@ -78,6 +78,13 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=subhasree2&show_icons=true&theme=dark" align="center" /></div>
 <br />
 
+<br/>
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhasree2&theme=github_dark)
+  
+<br/>
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree2&layout=compact&theme=dark" align="center" /></div>
 <br />
