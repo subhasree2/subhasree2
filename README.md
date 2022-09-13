@@ -21,6 +21,10 @@
 </a> &nbsp;
 
 <a> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+</a> &nbsp;
+
+<a> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </a> &nbsp;
 
@@ -59,6 +63,14 @@
 
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="python" width="40" height="40"/>
+</a> &nbsp;
+
+<a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="python" width="40" height="40"/>
+</a> &nbsp;
+
+<a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="python" width="40" height="40"/>
 </a> &nbsp; 
 <br>
 <br>
