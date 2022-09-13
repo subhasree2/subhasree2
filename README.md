@@ -31,14 +31,14 @@
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="python" width="40" height="40"/>
 </a> &nbsp;
-
+   
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="python" width="40" height="40"/>
 </a> &nbsp;
 
 <br>
 <br>
-
+   
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="python" width="40" height="40"/>
 </a> &nbsp; 
@@ -50,30 +50,29 @@
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="python" width="40" height="40"/>
 </a> &nbsp; 
-
+  
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/>
 </a> &nbsp; 
-<br>
-<br>
 
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="python" width="40" height="40"/>
 </a> &nbsp; 
 
+<br>
+<br>
+   
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="python" width="40" height="40"/>
 </a> &nbsp;
-
+   
 <a>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40 />
 </a> &nbsp;
 
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="python" width="40" height="40"/>
 </a> &nbsp; 
-<br>
-<br>
 
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="python" width="40" height="40"/>
@@ -87,16 +86,19 @@
 <br />
 -->
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=subhasree2&show_icons=true&theme=dark" align="center" /></div>
+<div align="center">                                                                                                                                                    <img src="https://github-readme-stats.vercel.app/api?username=subhasree2&show_icons=true&theme=dark" align="center"style="margin-right:100px"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhasree2&theme=github_dark" align="center" style="margin-right:100px"/>
+</div>
 <br />
-
 <br/>
-
 <div align="center">
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhasree2&theme=github_dark)
   
 <br/>
+<br>
+                   
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree2&layout=compact&theme=dark" align="center" /></div>
 <br />
