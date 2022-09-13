@@ -86,9 +86,8 @@
 <br />
 -->
 
-<div align="center">                                                                                                                                                    <img src="https://github-readme-stats.vercel.app/api?username=subhasree2&show_icons=true&theme=dark" align="center"style="margin-right:100px"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhasree2&theme=github_dark" align="center" style="margin-right:100px"/>
+<div align="center">                                                                                                                                                    <img src="https://github-readme-stats.vercel.app/api?username=subhasree2&show_icons=true&theme=dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhasree2&theme=github_dark" style="margin-right:100px"/>
 </div>
 <br />
 <br/>
@@ -97,7 +96,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhasree2&theme=github_dark)
   
 <br/>
-<br>
                    
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree2&layout=compact&theme=dark" align="center" /></div>
