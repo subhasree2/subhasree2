@@ -3,7 +3,7 @@
 [![MasterHead](https://raw.githubusercontent.com/subhasree2/subhasree2/master/header.png)](https://github.com/subhasree2)
 
 - I’m currently learning Web Development and DSA 
-- I’m currently pursuing II year Computer Science and Engineering :computer:
+- I’m currently pursuing III year Computer Science and Engineering :computer:
 - I’m looking forward to become a good coder </>
 
 <div align="center">
