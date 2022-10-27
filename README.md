@@ -5,6 +5,9 @@
 - I’m currently exploring Web Development and Competitive Programming
 - Pursuing III year in Computer Science and Engineering :computer:
 - I’m looking forward to learn new technologies and doing good projects </>
+- Reach me :
+   - [LinkedIn](https://www.linkedin.com/in/subhasree-m/)
+   - [Email](mailto:subhasreemurugan6@gmail.com)
 
 <div align="center">
 <br>
