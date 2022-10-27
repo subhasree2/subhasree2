@@ -68,10 +68,6 @@
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="python" width="40" height="40"/>
 </a> &nbsp;
-   
-<a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40 />
-</a> &nbsp;
 
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="python" width="40" height="40"/>
