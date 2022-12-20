@@ -1,6 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-![Header](./github-header-image.png)
+<div align="center">
+   <img src="github-header-image.png" align="center" height="200%"/>
+</div>
+<br>
 
 - I’m currently exploring Web Development and Competitive Programming
 - Pursuing III year in Computer Science and Engineering :computer:
@@ -10,7 +13,6 @@
    - [Email](mailto:subhasreemurugan6@gmail.com)
 
 <div align="center">
-<br>
 <br>
 <h3 align="center" font-weight="bold">Languages and Tools</h3>
 <br>
