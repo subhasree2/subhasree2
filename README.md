@@ -3,17 +3,17 @@
 <div align="center">
    <img src="github-header-image.png" align="center" height="200%"/>
 </div>
-<br>
+<br><br>
 
 - I’m currently exploring Web Development and Competitive Programming
 - Pursuing III year in Computer Science and Engineering :computer:
 - I’m looking forward to learn new technologies and doing good projects </>
-- Reach me thru :
-   - [LinkedIn](https://www.linkedin.com/in/subhasree-m/)
-   - [Email](mailto:subhasreemurugan6@gmail.com)
-
-<div align="center">
 <br>
+<div align="center">
+
+   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhasree-m/) &nbsp;
+   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhasreemurugan6@gmail.com)
+
    <hr>
 <h3 align="center" font-weight="bold">Languages and Tools</h3>
 <br>
@@ -41,14 +41,15 @@
 <br>
 
 <hr>
-<br>
 
 <!--
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=subhasree2&theme=dark" align="center" /></div>
 <br />
 -->
 
-<div align="center">                                                                                                                                                    <img src="https://github-readme-stats.vercel.app/api?username=subhasree2&show_icons=true&theme=omni"/>
+<h3 align="center" font-weight="bold">Github Stats</h3> <br>
+
+<div align="center">                                                                                                                                                    <img src="https://github-readme-stats.vercel.app/api?username=subhasree2&show_icons=true&theme=omni"/> &nbsp; &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhasree2&theme=radical" style="margin-right:100px"/>
 </div>
 <br />
