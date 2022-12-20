@@ -14,6 +14,7 @@
 
 <div align="center">
 <br>
+   <hr>
 <h3 align="center" font-weight="bold">Languages and Tools</h3>
 <br>
 
@@ -38,6 +39,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 </div>
 <br>
+
+<hr>
 <br>
 
 <!--
@@ -59,6 +62,8 @@
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhasree2&layout=compact&theme=radical" align="center" /></div>
 <br />
+   
+<hr>
 
 
 
