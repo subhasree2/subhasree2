@@ -70,9 +70,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=subhasree2&style=for-the-badge)
-   
-   
-[![trophy](https://github-profile-trophy.vercel.app/?username=subhasree2)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
 And these are my Repos :point_down::point_down:
