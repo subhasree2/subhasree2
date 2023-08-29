@@ -1,14 +1,16 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<div align="center">
-   <img src="github-header-image.png" align="center" height="200%"/>
+<div id="header" align="center">
+   <h1>Hey there! I'm Subhasree M</h1>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 </div>
 <br><br>
 
-- I’m currently exploring Web Development and Competitive Programming
-- Pursuing III year in Computer Science and Engineering :computer:
-- I’m looking forward to learn new technologies and doing good projects </>
+- I'm a fourth-year Computer Science and Engineering student passionate about web development and competitive programming.
+- I love learning new technologies and applying them to create impactful projects 💻
+- Welcome to my GitHub repository, where you can explore my coding journey 🧭
 <br>
+
 <div align="center">
 
    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhasree-m/) &nbsp;
